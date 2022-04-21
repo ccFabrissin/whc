@@ -1,0 +1,19 @@
+body{
+    background-color: #cfcfea;
+}
+.fondoLogo{
+    background-color: #011627;
+}
+header{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+}
+
+footer{
+    background-color: #707078;
+}
+
+strong{
+    color:#cfcfea;
+    font-size: 40px;
+}
